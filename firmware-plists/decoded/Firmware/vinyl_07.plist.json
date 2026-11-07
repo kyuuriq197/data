@@ -1,0 +1,124 @@
+﻿{
+  "eUICC,Gold": {
+    "Digest": "pJSHEhlMZMMXLwRTHYtBjm0A4N4UvXz2NxzYRCid9LQ=",
+    "Info": {
+      "FirmwareMetadata": [
+        {
+          "kVinylFwUpdateCurrentVersion": "RyZEX0NURzAwSkNfSUNTQ19NMDAwMDc4X1YwNzA4ICA=",
+          "kVinylFwUpdateGoldFwMac": "aBN9OLvQBrw=",
+          "kVinylFwUpdateKeyId": "QVhK/T5EfBDbGEdwMfU42u7Qx9M=",
+          "kVinylFwUpdateLoaderVersion": "BwAA"
+        },
+        {
+          "kVinylFwUpdateCurrentVersion": "RyZEX0NURzAwSkNfSUNTQ19NMTAwMDc1X1YwQTA1ICA=",
+          "kVinylFwUpdateGoldFwMac": "1gJR23QpS2s=",
+          "kVinylFwUpdateKeyId": "QVhK/T5EfBDbGEdwMfU42u7Qx9M=",
+          "kVinylFwUpdateLoaderVersion": "BxAA"
+        },
+        {
+          "kVinylFwUpdateCurrentVersion": "RyZEX0NURzAwSkNfSUNTQ19NMjAwMDc0X1YwRDA0ICA=",
+          "kVinylFwUpdateGoldFwMac": "cJcb/u6WQ50=",
+          "kVinylFwUpdateKeyId": "QVhK/T5EfBDbGEdwMfU42u7Qx9M=",
+          "kVinylFwUpdateLoaderVersion": "ByAA"
+        },
+        {
+          "kVinylFwUpdateCurrentVersion": "RyZEX0NURzAwSkNfSUNTQ19NRDMwMDc5X1YwNzA5ICA=",
+          "kVinylFwUpdateGoldFwMac": "JnpRAeQ5ESo=",
+          "kVinylFwUpdateKeyId": "2oesXhDGOzQ7tjadCTNELarShIA=",
+          "kVinylFwUpdateLoaderVersion": "hwMA"
+        },
+        {
+          "kVinylFwUpdateCurrentVersion": "RyZEX0NURzAwSkNfSUNTQ19NRTIwMDcwX1YwOTAwICA=",
+          "kVinylFwUpdateGoldFwMac": "zbZns+RG3EI=",
+          "kVinylFwUpdateKeyId": "2oesXhDGOzQ7tjadCTNELarShIA=",
+          "kVinylFwUpdateLoaderVersion": "hyAA"
+        },
+        {
+          "kVinylFwUpdateCurrentVersion": "RyZEX0NURzAwSkNfSUNTQ19NRjEwMDcwX1YwQjAwICA=",
+          "kVinylFwUpdateGoldFwMac": "osANqqb1AwU=",
+          "kVinylFwUpdateKeyId": "2oesXhDGOzQ7tjadCTNELarShIA=",
+          "kVinylFwUpdateLoaderVersion": "hyEA"
+        },
+        {
+          "kVinylFwUpdateCurrentVersion": "RyZEX0NURzAwSkNfSUNTQ19NRjIwMDczX1YwQzAzICA=",
+          "kVinylFwUpdateGoldFwMac": "XF7mrqsOFiU=",
+          "kVinylFwUpdateKeyId": "2oesXhDGOzQ7tjadCTNELarShIA=",
+          "kVinylFwUpdateLoaderVersion": "hyIA"
+        },
+        {
+          "kVinylFwUpdateCurrentVersion": "RyZEX0NURzAwSkNfSUNTQ19NRjMwMDczX1YwRDAzICA=",
+          "kVinylFwUpdateGoldFwMac": "MpZyPEqs7oc=",
+          "kVinylFwUpdateKeyId": "2oesXhDGOzQ7tjadCTNELarShIA=",
+          "kVinylFwUpdateLoaderVersion": "hyMA"
+        },
+        {
+          "kVinylFwUpdateCurrentVersion": "RyZEX0NURzAwSkNfSUNTQ19NRTMwMDcyX1YwQTAyICA=",
+          "kVinylFwUpdateGoldFwMac": "eqW7WH3M3z8=",
+          "kVinylFwUpdateKeyId": "2oesXhDGOzQ7tjadCTNELarShIA=",
+          "kVinylFwUpdateLoaderVersion": "hzAA"
+        }
+      ]
+    }
+  },
+  "eUICC,Main": {
+    "Digest": "pn2+WN4bLAhUKVpd8kCuL3Kyix+St68xoBIxLA4El30=",
+    "Info": {
+      "FirmwareMetadata": [
+        {
+          "kVinylFwUpdateCurrentVersion": "RyZEX0NURzAwSkNfSUNTQ19NMDAwMDc4X1YwNzA4ICA=",
+          "kVinylFwUpdateGoldFwMac": "aBN9OLvQBrw=",
+          "kVinylFwUpdateKeyId": "QVhK/T5EfBDbGEdwMfU42u7Qx9M=",
+          "kVinylFwUpdateLoaderVersion": "BwAA"
+        },
+        {
+          "kVinylFwUpdateCurrentVersion": "RyZEX0NURzAwSkNfSUNTQ19NMTAwMDc1X1YwQTA1ICA=",
+          "kVinylFwUpdateGoldFwMac": "1gJR23QpS2s=",
+          "kVinylFwUpdateKeyId": "QVhK/T5EfBDbGEdwMfU42u7Qx9M=",
+          "kVinylFwUpdateLoaderVersion": "BxAA"
+        },
+        {
+          "kVinylFwUpdateCurrentVersion": "RyZEX0NURzAwSkNfSUNTQ19NMjAwMDc0X1YwRDA0ICA=",
+          "kVinylFwUpdateGoldFwMac": "cJcb/u6WQ50=",
+          "kVinylFwUpdateKeyId": "QVhK/T5EfBDbGEdwMfU42u7Qx9M=",
+          "kVinylFwUpdateLoaderVersion": "ByAA"
+        },
+        {
+          "kVinylFwUpdateCurrentVersion": "RyZEX0NURzAwSkNfSUNTQ19NRDMwMDc5X1YwNzA5ICA=",
+          "kVinylFwUpdateGoldFwMac": "JnpRAeQ5ESo=",
+          "kVinylFwUpdateKeyId": "2oesXhDGOzQ7tjadCTNELarShIA=",
+          "kVinylFwUpdateLoaderVersion": "hwMA"
+        },
+        {
+          "kVinylFwUpdateCurrentVersion": "RyZEX0NURzAwSkNfSUNTQ19NRTIwMDcwX1YwOTAwICA=",
+          "kVinylFwUpdateGoldFwMac": "zbZns+RG3EI=",
+          "kVinylFwUpdateKeyId": "2oesXhDGOzQ7tjadCTNELarShIA=",
+          "kVinylFwUpdateLoaderVersion": "hyAA"
+        },
+        {
+          "kVinylFwUpdateCurrentVersion": "RyZEX0NURzAwSkNfSUNTQ19NRjEwMDcwX1YwQjAwICA=",
+          "kVinylFwUpdateGoldFwMac": "osANqqb1AwU=",
+          "kVinylFwUpdateKeyId": "2oesXhDGOzQ7tjadCTNELarShIA=",
+          "kVinylFwUpdateLoaderVersion": "hyEA"
+        },
+        {
+          "kVinylFwUpdateCurrentVersion": "RyZEX0NURzAwSkNfSUNTQ19NRjIwMDczX1YwQzAzICA=",
+          "kVinylFwUpdateGoldFwMac": "XF7mrqsOFiU=",
+          "kVinylFwUpdateKeyId": "2oesXhDGOzQ7tjadCTNELarShIA=",
+          "kVinylFwUpdateLoaderVersion": "hyIA"
+        },
+        {
+          "kVinylFwUpdateCurrentVersion": "RyZEX0NURzAwSkNfSUNTQ19NRjMwMDczX1YwRDAzICA=",
+          "kVinylFwUpdateGoldFwMac": "MpZyPEqs7oc=",
+          "kVinylFwUpdateKeyId": "2oesXhDGOzQ7tjadCTNELarShIA=",
+          "kVinylFwUpdateLoaderVersion": "hyMA"
+        },
+        {
+          "kVinylFwUpdateCurrentVersion": "RyZEX0NURzAwSkNfSUNTQ19NRTMwMDcyX1YwQTAyICA=",
+          "kVinylFwUpdateGoldFwMac": "eqW7WH3M3z8=",
+          "kVinylFwUpdateKeyId": "2oesXhDGOzQ7tjadCTNELarShIA=",
+          "kVinylFwUpdateLoaderVersion": "hzAA"
+        }
+      ]
+    }
+  }
+}
